@@ -10,7 +10,7 @@ now you can use of UISliderTwoSide in your project
 
 
 ## Install
-you can use of cocoapods
+you can use cocoapods
 
 ```
 pod 'UISliderTwoSide'
