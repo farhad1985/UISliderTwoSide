@@ -15,3 +15,26 @@ you can use of cocoapods
 ```
 pod 'UISliderTwoSide'
 ```
+
+## How to use
+
+```swift
+import UIKit
+import UISliderTwoSide
+
+class ViewController: UIViewController {
+
+    @IBOutlet weak var slider: UISliderTwoSide! {
+        didSet {
+            slider.layer.masksToBounds = true
+            slider.delegate = self
+        }
+    }
+}
+
+extension ViewController: UISliderTwoSideDelegate {
+    func sliderTwoSide(slider: UISliderTwoSide, minValue: CGFloat, maxValue: CGFloat) {
+        print("min: \(minValue)  |  max: \(maxValue)")
+    }
+}
+```
