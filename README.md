@@ -26,7 +26,6 @@ class ViewController: UIViewController {
 
     @IBOutlet weak var slider: UISliderTwoSide! {
         didSet {
-            slider.layer.masksToBounds = true
             slider.delegate = self
         }
     }
