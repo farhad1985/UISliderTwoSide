@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "GLOBAL">
+         <PersistentStrings>
+            <PersistentString
+               value = "gestureRecognizer.view!.center.x">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "UISliderTwoSide.layoutSubviews():UISliderTwoSide.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "width">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "UISliderTwoSide.touchLeftSlider():UISliderTwoSide.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "rightSide.frame.width">
+            </PersistentString>
+            <PersistentString
+               value = "width">
+            </PersistentString>
+            <PersistentString
+               value = "width - w">
+            </PersistentString>
+            <PersistentString
+               value = "rightSide.value">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "UISliderTwoSide.touchLeftSlider(gestureRecognizer:):UISliderTwoSide.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "gestureRecognizer.view!.center.x">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
